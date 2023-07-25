@@ -1,0 +1,15 @@
+C:\Users\Game\Desktop\GB_ControlWork\obj\Debug\net6.0\GB_ControlWork.csproj.AssemblyReference.cache
+C:\Users\Game\Desktop\GB_ControlWork\obj\Debug\net6.0\GB_ControlWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Game\Desktop\GB_ControlWork\obj\Debug\net6.0\GB_ControlWork.AssemblyInfoInputs.cache
+C:\Users\Game\Desktop\GB_ControlWork\obj\Debug\net6.0\GB_ControlWork.AssemblyInfo.cs
+C:\Users\Game\Desktop\GB_ControlWork\obj\Debug\net6.0\GB_ControlWork.csproj.CoreCompileInputs.cache
+C:\Users\Game\Desktop\GB_ControlWork\bin\Debug\net6.0\GB_ControlWork.exe
+C:\Users\Game\Desktop\GB_ControlWork\bin\Debug\net6.0\GB_ControlWork.deps.json
+C:\Users\Game\Desktop\GB_ControlWork\bin\Debug\net6.0\GB_ControlWork.runtimeconfig.json
+C:\Users\Game\Desktop\GB_ControlWork\bin\Debug\net6.0\GB_ControlWork.dll
+C:\Users\Game\Desktop\GB_ControlWork\bin\Debug\net6.0\GB_ControlWork.pdb
+C:\Users\Game\Desktop\GB_ControlWork\obj\Debug\net6.0\GB_ControlWork.dll
+C:\Users\Game\Desktop\GB_ControlWork\obj\Debug\net6.0\refint\GB_ControlWork.dll
+C:\Users\Game\Desktop\GB_ControlWork\obj\Debug\net6.0\GB_ControlWork.pdb
+C:\Users\Game\Desktop\GB_ControlWork\obj\Debug\net6.0\GB_ControlWork.genruntimeconfig.cache
+C:\Users\Game\Desktop\GB_ControlWork\obj\Debug\net6.0\ref\GB_ControlWork.dll
