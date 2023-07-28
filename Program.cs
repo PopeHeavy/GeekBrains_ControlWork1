@@ -18,12 +18,14 @@
 
 String[] string_array1 = new String[10] {"Monday", "Tue", "Wed", "Thu", "Fri", "Saturday", "Sunday", "Pizza Day", "Cat", "Garbage Day"};
 
-for (int i = 0; i < 10; i++)
+string[] string_array2 = new string[string_array1.Length];
+int counter = 0;
+for (int i = 0; i < string_array1.Length; i++)
 {   
     if (string_array1[i].Length < 4)
     {
-        Console.Write(string_array1[i]);
+        string_array2[counter++] = string_array1[i];
     }
 }
-
-
+Array.Resize(ref string_array2, counter);
+Console.WriteLine(String.Join(" ", string_array2));
